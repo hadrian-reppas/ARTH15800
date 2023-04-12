@@ -1,25 +1,43 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import Form from './Form'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import art from './art.json';
+import images from './img/images.js';
+
+class App extends Component {
+  state = {
+    index: Math.floor(Math.random() * art.length),
+    check: false,
+  };
+
+  render() {
+    console.log('index: ' + this.state.index);
+    const { title, artist, range } = art[this.state.index];
+
+    return (
+      <div className="flex h-screen">
+        <div className="max-w-6xl m-auto">
+          <div className="flex">
+            <img className="h-96 mb-8 mx-auto" alt="" src={images[this.state.index]} />
+          </div>
+          <div className="flex bp-1">
+            <Form handleSubmit={this.handleSubmit} title={title} artist={artist} range={range} check={this.state.check} />
+          </div>
+        </div >
+      </div >
+    );
+  }
+
+  handleSubmit = (guess) => {
+    if (this.state.check) {
+      this.setState({
+        index: Math.floor(Math.random() * art.length),
+        check: false
+      });
+    } else {
+      this.setState({ check: true });
+    }
+  }
 }
 
 export default App;
