@@ -28,12 +28,20 @@ class App extends Component {
     );
   }
 
-  handleSubmit = (guess) => {
+  handleSubmit = (correct) => {
     if (this.state.check) {
-      this.setState({
-        index: Math.floor(Math.random() * art.length),
-        check: false
-      });
+      if (correct) {
+        var new_index = Math.floor(Math.random() * art.length);
+        while (new_index === this.state.index) {
+          new_index = Math.floor(Math.random() * art.length);
+        }
+        this.setState({
+          index: new_index,
+          check: false
+        });
+      } else {
+        this.setState({ check: false });
+      }
     } else {
       this.setState({ check: true });
     }
