@@ -13,7 +13,6 @@ class App extends Component {
   };
 
   render() {
-    console.log('index: ' + this.state.index);
     const { title, artist, range } = art[this.state.index];
 
     return (
@@ -55,7 +54,6 @@ class App extends Component {
   handleWeek = (week) => {
     var weeks = [...this.state.weeks];
     weeks[week] = !weeks[week];
-    console.log(week);
     if (!weeks.every(x => x === false)) {
       this.setState({ weeks: weeks });
     }
