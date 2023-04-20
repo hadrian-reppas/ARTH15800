@@ -1,11 +1,21 @@
 import subprocess
 import json
 import sys
+from os import path
 
 pieces = json.load(open('src/art.json'))
 
 
 def download():
+    for i, piece in enumerate(pieces):
+        link, index = piece['link'], piece['index']
+        if not path.isfile(f'src/img/raw/{index}.idk'):
+            subprocess.run(
+                f'curl -o src/img/raw/{index}.idk {link}', shell=True)
+        print(f'{i + 1}/{len(pieces)}')
+
+
+def download_all():
     for i, piece in enumerate(pieces):
         link, index = piece['link'], piece['index']
         subprocess.run(f'curl -o src/img/raw/{index}.idk {link}', shell=True)
@@ -39,6 +49,8 @@ if __name__ == '__main__':
     args = sys.argv
     if args[1] == 'download' or args[1] == 'd':
         download()
+    elif args[1] == 'download-all' or args[1] == 'D':
+        download_all()
     elif args[1] == 'resize' or args[1] == 'r':
         resize(int(args[2]))
     elif args[1] == 'clean' or args[1] == 'c':

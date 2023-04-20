@@ -1188,5 +1188,514 @@
         "link": "https://www.artforum.com/uploads/upload.001/id15161/article_1064x.jpg",
         "index": 73,
         "week": 4
+    },
+    {
+        "title": [
+            "Installation at the 0' 10 Exhibition"
+        ],
+        "artist": [
+            "Kazimir Malevich",
+            "Malevich"
+        ],
+        "range": [
+            1915,
+            1915
+        ],
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fd/0.10_Exhibition.jpg",
+        "index": 74,
+        "week": 4
+    },
+    {
+        "title": [
+            "Taking in the Rye"
+        ],
+        "artist": [
+            "Kazimir Malevich",
+            "Malevich"
+        ],
+        "range": [
+            1912,
+            1912
+        ],
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Taking_in_the_Rye_Kazimir_Malevich_1911.jpeg",
+        "index": 75,
+        "week": 4
+    },
+    {
+        "title": [
+            "Morning in the Village After the Snow Storm",
+            "The Village After Snowfall"
+        ],
+        "artist": [
+            "Kazimir Malevich",
+            "Malevich"
+        ],
+        "range": [
+            1912,
+            1912
+        ],
+        "link": "https://www.guggenheim.org/wp-content/uploads/1912/01/52.1327_ph_web-1.jpg",
+        "index": 76,
+        "week": 4
+    },
+    {
+        "title": [
+            "The Black Square",
+            "Black Square"
+        ],
+        "artist": [
+            "Kazimir Malevich",
+            "Malevich"
+        ],
+        "range": [
+            1915,
+            1915
+        ],
+        "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kazimir_Malevich%2C_1915%2C_Black_Suprematic_Square%2C_oil_on_linen_canvas%2C_79.5_x_79.5_cm%2C_Tretyakov_Gallery%2C_Moscow.jpg/1200px-Kazimir_Malevich%2C_1915%2C_Black_Suprematic_Square%2C_oil_on_linen_canvas%2C_79.5_x_79.5_cm%2C_Tretyakov_Gallery%2C_Moscow.jpg",
+        "index": 77,
+        "week": 4
+    },
+    {
+        "title": [
+            "Suprematist Painting: 8 Red Rectangles",
+            "8 Red Rectangles"
+        ],
+        "artist": [
+            "Kazimir Malevich",
+            "Malevich"
+        ],
+        "range": [
+            1915,
+            1915
+        ],
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Malevich-Suprematism..jpg",
+        "index": 78,
+        "week": 4
+    },
+    {
+        "title": [
+            "Complex Premonition: Half-Figure in a Yellow Shirt",
+            "Half-Figure in a Yellow Shirt"
+        ],
+        "artist": [
+            "Kazimir Malevich",
+            "Malevich"
+        ],
+        "range": [
+            1930,
+            1932
+        ],
+        "link": "https://uploads3.wikiart.org/images/kazimir-malevich/bad-premonition.jpg!Large.jpg",
+        "index": 79,
+        "week": 4
+    },
+    {
+        "title": [
+            "Pure Red Color"
+        ],
+        "artist": [
+            "Aleksandr Rodchenko",
+            "Rodchenko"
+        ],
+        "range": [
+            1921,
+            1921
+        ],
+        "link": "https://www.moma.org/interactives/exhibitions/1998/rodchenko/images/death_1_lg.jpg",
+        "index": 80,
+        "week": 4
+    },
+    {
+        "title": [
+            "Spatial Construction #12"
+        ],
+        "artist": [
+            "Aleksandr Rodchenko",
+            "Rodchenko"
+        ],
+        "range": [
+            1920,
+            1920
+        ],
+        "link": "https://utopiadystopiawwi.files.wordpress.com/2013/01/rodchenko-spatial-construction-12-1920.jpg?w=640",
+        "index": 81,
+        "week": 4
+    },
+    {
+        "title": [
+            "Worker's Club"
+        ],
+        "artist": [
+            "Aleksandr Rodchenko",
+            "Rodchenko"
+        ],
+        "range": [
+            1925,
+            1925
+        ],
+        "link": "https://i0.wp.com/thecharnelhouse.org/wp-content/uploads/2014/05/tumblr_inline_mhuto1o47j1qz4rgp1.jpg",
+        "index": 82,
+        "week": 4
+    },
+    {
+        "title": [
+            "Books"
+        ],
+        "artist": [
+            "Aleksandr Rodchenko",
+            "Rodchenko"
+        ],
+        "range": [
+            1925,
+            1925
+        ],
+        "link": "https://uploads1.wikiart.org/images/alexander-rodchenko/books-1924.jpg!Large.jpg",
+        "index": 83,
+        "week": 4
+    },
+    {
+        "title": [
+            "Design for Sports Clothing"
+        ],
+        "artist": [
+            "Varvara Stepanova",
+            "Stepanova"
+        ],
+        "range": [
+            1923,
+            1925
+        ],
+        "link": "https://uploads5.wikiart.org/00337/images/varvara-stepanova/unisex-sports-uniform-1928.jpg!Large.jpg",
+        "index": 84,
+        "week": 4
+    },
+    {
+        "title": [
+            "Pioneer Girl",
+            "Pionerka"
+        ],
+        "artist": [
+            "Aleksandr Rodchenko",
+            "Rodchenko"
+        ],
+        "range": [
+            1930,
+            1930
+        ],
+        "link": "https://www.moma.org/media/W1siZiIsIjIxMTE2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=1e935c7cc64df0be",
+        "index": 85,
+        "week": 4
+    },
+    {
+        "title": [
+            "Sportsman's Parade"
+        ],
+        "artist": [
+            "Aleksandr Rodchenko",
+            "Rodchenko"
+        ],
+        "range": [
+            1932,
+            1932
+        ],
+        "link": "https://6.api.artsmia.org/800/4346.jpg",
+        "index": 86,
+        "week": 4
+    },
+    {
+        "title": [
+            "Murdering Airplane"
+        ],
+        "artist": [
+            "Max Ernst",
+            "Ernst"
+        ],
+        "range": [
+            1920,
+            1920
+        ],
+        "link": "https://64.media.tumblr.com/5989c88450dae05d675f2a995c5ee170/tumblr_oaf57eycVF1rtynt1o1_1280.jpg",
+        "index": 87,
+        "week": 4
+    },
+    {
+        "title": [
+            "Reading Karawane"
+        ],
+        "artist": [
+            "Hugo Ball",
+            "Ball"
+        ],
+        "range": [
+            1916,
+            1916
+        ],
+        "link": "https://2.bp.blogspot.com/__BgJTIcm_qg/Sc8oKXKzWTI/AAAAAAAAEcU/SY2X_dSUaOA/w1200-h630-p-k-no-nu/1916+Karawane+cropped.jpg",
+        "index": 88,
+        "week": 4
+    },
+    {
+        "title": [
+            "Beautiful Girl",
+            "Das Schöne Mädche"
+        ],
+        "artist": [
+            "Hannah Hoch",
+            "Hoch"
+        ],
+        "range": [
+            1919,
+            1919
+        ],
+        "link": "https://womensartblog.files.wordpress.com/2017/07/han-hoch.jpg?w=676",
+        "index": 89,
+        "week": 4
+    },
+    {
+        "title": [
+            "Nude Descending a Staircase No. 2",
+            "Nude Descending a Staircase"
+        ],
+        "artist": [
+            "Marcel Duchamp",
+            "Duchamp"
+        ],
+        "range": [
+            1912,
+            1912
+        ],
+        "link": "https://iiif.micr.io/CjRvz/full/%5E1200,/0/default.jpg",
+        "index": 90,
+        "week": 4
+    },
+    {
+        "title": [
+            "Bicycle Wheel"
+        ],
+        "artist": [
+            "Marcel Duchamp",
+            "Duchamp"
+        ],
+        "range": [
+            1913,
+            1913
+        ],
+        "link": "https://uploads4.wikiart.org/images/marcel-duchamp/bicycle-wheel-1913.jpg!Large.jpg",
+        "index": 91,
+        "week": 4
+    },
+    {
+        "title": [
+            "Bottlerack",
+            "Porte-Bouteilles"
+        ],
+        "artist": [
+            "Marcel Duchamp",
+            "Duchamp"
+        ],
+        "range": [
+            1914,
+            1914
+        ],
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bottle_Rack_-_Marcel_Duchamp.jpg",
+        "index": 92,
+        "week": 4
+    },
+    {
+        "title": [
+            "Fountain"
+        ],
+        "artist": [
+            "Marcel Duchamp",
+            "Duchamp"
+        ],
+        "range": [
+            1917,
+            1917
+        ],
+        "link": "https://media.tate.org.uk/art/images/work/T/T07/T07573_10.jpg",
+        "index": 93,
+        "week": 4
+    },
+    {
+        "title": [
+            "L.H.O.O.Q."
+        ],
+        "artist": [
+            "Marcel Duchamp",
+            "Duchamp"
+        ],
+        "range": [
+            1919,
+            1919
+        ],
+        "link": "https://upload.wikimedia.org/wikipedia/en/7/74/Marcel_Duchamp%2C_1919%2C_L.H.O.O.Q.jpg",
+        "index": 94,
+        "week": 5
+    },
+    {
+        "title": [
+            "The Bride Stripped Bare by Her Bachelors Even",
+            "The Large Glass"
+        ],
+        "artist": [
+            "Marcel Duchamp",
+            "Duchamp"
+        ],
+        "range": [
+            1915,
+            1923
+        ],
+        "link": "https://upload.wikimedia.org/wikipedia/en/b/be/Duchamp_LargeGlass.jpg",
+        "index": 95,
+        "week": 5
+    },
+    {
+        "title": [
+            "Étant donnés",
+            "Being Given"
+        ],
+        "artist": [
+            "Marcel Duchamp",
+            "Duchamp"
+        ],
+        "range": [
+            1966,
+            1966
+        ],
+        "link": "https://cdn.sanity.io/images/f23a1pgq/pma_production/77db26476b00fbfd3f75cea6eae9163e3d0fd611-491x550.jpg?rect=0,30,491,491&bg=f2f2f2&w=640&h=640&q=80&fit=clip",
+        "index": 96,
+        "week": 5
+    },
+    {
+        "title": [
+            "Aux abbatoirs de La Villette",
+            "(Slaughterhouse)"
+        ],
+        "artist": [
+            "Eli Lotar",
+            "Lotar"
+        ],
+        "range": [
+            1929,
+            1929
+        ],
+        "link": "https://artredglasses.files.wordpress.com/2017/04/1-eli-lotar-aux-abattoirs-de-la-villette-1929-coll.jpg?w=696",
+        "index": 97,
+        "week": 5
+    },
+    {
+        "title": [
+            "The Persistence of Memory"
+        ],
+        "artist": [
+            "Salvador Dali",
+            "Dali"
+        ],
+        "range": [
+            1931,
+            1931
+        ],
+        "link": "https://uploads6.wikiart.org/images/salvador-dali/the-persistence-of-memory-1931.jpg!Large.jpg",
+        "index": 98,
+        "week": 5
+    },
+    {
+        "title": [
+            "Object"
+        ],
+        "artist": [
+            "Meret Oppenheim",
+            "Oppenheim"
+        ],
+        "range": [
+            1936,
+            1936
+        ],
+        "link": "https://www.moma.org/learn/moma_learning/_assets/www.moma.org/wp/moma_learning/wp-content/uploads/2012/06/Meret-Oppenheim.-Object-469x311.jpg",
+        "index": 99,
+        "week": 5
+    },
+    {
+        "title": [
+            "Detroit Industry"
+        ],
+        "artist": [
+            "Diego Rivera",
+            "Rivera"
+        ],
+        "range": [
+            1932,
+            1933
+        ],
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Rivera_detroit_industry_north.jpg",
+        "index": 100,
+        "week": 5
+    },
+    {
+        "title": [
+            "Self-Portrait with Thorn Necklace and Hummingbird"
+        ],
+        "artist": [
+            "Frida Kahlo",
+            "Kahlo"
+        ],
+        "range": [
+            1940,
+            1940
+        ],
+        "link": "https://www.fridakahlo.org/images/paintings/self-portrait-with-necklace-of-thorns.jpg",
+        "index": 101,
+        "week": 5
+    },
+    {
+        "title": [
+            "Moses, or the Birth of the Hero",
+            "Moses",
+            "The Birth of the Hero"
+        ],
+        "artist": [
+            "Frida Kahlo",
+            "Kahlo"
+        ],
+        "range": [
+            1945,
+            1945
+        ],
+        "link": "https://www.fridakahlo.org/images/paintings/moses.jpg",
+        "index": 102,
+        "week": 5
+    },
+    {
+        "title": [
+            "Guernica"
+        ],
+        "artist": [
+            "Pablo Picasso",
+            "Picasso"
+        ],
+        "range": [
+            1937,
+            1937
+        ],
+        "link": "https://cdn.shopify.com/s/files/1/0849/4704/files/guernica_sartle.jpg?v=1582528493",
+        "index": 103,
+        "week": 5
+    },
+    {
+        "title": [
+            "Musée Précaire Albinet"
+        ],
+        "artist": [
+            "Thomas Hirschhorn",
+            "Hirschhorn"
+        ],
+        "range": [
+            2004,
+            2004
+        ],
+        "link": "http://www.leslaboratoires.org/sites/leslaboratoires.org/files/images/vue_densemble.jpg",
+        "index": 104,
+        "week": 5
     }
 ]

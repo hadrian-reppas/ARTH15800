@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import Form from './Form'
+import Form from './Form';
+import WeekBar from './WeekBar.js';
 
 import art from './art.json';
 import images from './img/images.js';
@@ -8,6 +9,7 @@ class App extends Component {
   state = {
     index: Math.floor(Math.random() * art.length),
     check: false,
+    weeks: new Array(5).fill(true)
   };
 
   render() {
@@ -23,6 +25,9 @@ class App extends Component {
           <div className="flex bp-1">
             <Form handleSubmit={this.handleSubmit} title={title} artist={artist} range={range} check={this.state.check} />
           </div>
+          <div className="flex bp-1">
+            <WeekBar weeks={this.state.weeks} handleWeek={this.handleWeek} />
+          </div>
         </div >
       </div >
     );
@@ -32,7 +37,7 @@ class App extends Component {
     if (this.state.check) {
       if (correct) {
         var new_index = Math.floor(Math.random() * art.length);
-        while (new_index === this.state.index) {
+        while (!this.state.weeks[art[new_index].week - 1] || new_index === this.state.index) {
           new_index = Math.floor(Math.random() * art.length);
         }
         this.setState({
@@ -44,6 +49,15 @@ class App extends Component {
       }
     } else {
       this.setState({ check: true });
+    }
+  }
+
+  handleWeek = (week) => {
+    var weeks = [...this.state.weeks];
+    weeks[week] = !weeks[week];
+    console.log(week);
+    if (!weeks.every(x => x === false)) {
+      this.setState({ weeks: weeks });
     }
   }
 }
