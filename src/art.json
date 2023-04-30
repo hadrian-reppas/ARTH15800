@@ -1697,5 +1697,992 @@
         "link": "http://www.leslaboratoires.org/sites/leslaboratoires.org/files/images/vue_densemble.jpg",
         "index": 104,
         "week": 5
+    },
+    {
+        "title": [
+            "Autumn Rhythm (Number 30)",
+            "Autumn Rhythm"
+        ],
+        "artist": [
+            "Jackson Pollock",
+            "Pollock"
+        ],
+        "range": [
+            1950,
+            1950
+        ],
+        "link": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/488978/preview",
+        "index": 105,
+        "week": 5
+    },
+    {
+        "title": [
+            "Number 1, 1950 (Lavender Mist)",
+            "Lavender Mist"
+        ],
+        "artist": [
+            "Jackson Pollock",
+            "Pollock"
+        ],
+        "range": [
+            1950,
+            1950
+        ],
+        "link": "https://media.nga.gov/iiif/accfaa20-6bb3-4c02-9f35-ffbf1fcd1584/full/!588,600/0/default.jpg",
+        "index": 106,
+        "week": 5
+    },
+    {
+        "title": [
+            "Onement 1"
+        ],
+        "artist": [
+            "Barnett Newman",
+            "Newman"
+        ],
+        "range": [
+            1948,
+            1948
+        ],
+        "link": "https://www.moma.org/media/W1siZiIsIjIwMjIwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=4446d021f689a4bd",
+        "index": 107,
+        "week": 5
+    },
+    {
+        "title": [
+            "Untitled 3"
+        ],
+        "artist": [
+            "Barnett Newman",
+            "Newman"
+        ],
+        "range": [
+            1950,
+            1950
+        ],
+        "link": "https://www.artic.edu/iiif/2/42c1fbbc-0335-3e9c-87ec-cebd82c3545b/full/843,/0/default.jpg",
+        "index": 108,
+        "week": 5
+    },
+    {
+        "title": [
+            "Woman"
+        ],
+        "artist": [
+            "Willem De Kooning",
+            "De Kooning"
+        ],
+        "range": [
+            1944,
+            1944
+        ],
+        "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mX1v1A8oWxPqZQ_kY_SbRtlLWowpPVNVDpDIEonG1O2Wxltc1u5UZZWohTjd22BBZdHUSPsKB74&usqp=CAU&ec=48600112",
+        "index": 109,
+        "week": 5
+    },
+    {
+        "title": [
+            "Excavation"
+        ],
+        "artist": [
+            "Willem De Kooning",
+            "De Kooning"
+        ],
+        "range": [
+            1950,
+            1950
+        ],
+        "link": "https://www.artic.edu/iiif/2/6e72d851-0c15-978f-d0cf-0eadb94c0cf9/full/843,/0/default.jpg",
+        "index": 110,
+        "week": 5
+    },
+    {
+        "title": [
+            "White Painting",
+            "White Paintings"
+        ],
+        "artist": [
+            "Robert Rauschenberg",
+            "Rauschenberg"
+        ],
+        "range": [
+            1951,
+            1951
+        ],
+        "link": "https://images.squarespace-cdn.com/content/v1/5e30b4c769dcbf426b421101/1614620111937-7E343SGJY307CDMJ194H/Robert+Rauschenberg%27s+White+Paintings?format=1000w",
+        "index": 111,
+        "week": 5
+    },
+    {
+        "title": [
+            "Erased de Kooning"
+        ],
+        "artist": [
+            "Robert Rauschenberg",
+            "Rauschenberg"
+        ],
+        "range": [
+            1951,
+            1953
+        ],
+        "link": "https://upload.wikimedia.org/wikipedia/en/0/08/Eraseddekooning.jpg",
+        "index": 112,
+        "week": 5
+    },
+    {
+        "title": [
+            "Colors for a Large Wall"
+        ],
+        "artist": [
+            "Ellsworth Kelly",
+            "Kelly"
+        ],
+        "range": [
+            1951,
+            1951
+        ],
+        "link": "https://www.moma.org/media/W1siZiIsIjM5MTE4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f4c0a30c9ea0d0b7",
+        "index": 113,
+        "week": 5
+    },
+    {
+        "title": [
+            "They Did Not Expect Him"
+        ],
+        "artist": [
+            "Ilya Repin",
+            "Repin"
+        ],
+        "range": [
+            1884,
+            1887
+        ],
+        "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ilya_Repin_Unexpected_visitors.jpg/1200px-Ilya_Repin_Unexpected_visitors.jpg",
+        "index": 114,
+        "week": 5
+    },
+    {
+        "title": [
+            "Freedom From Want"
+        ],
+        "artist": [
+            "Norman Rockwell",
+            "Rockwell"
+        ],
+        "range": [
+            1943,
+            1943
+        ],
+        "link": "https://news.artnet.com/app/news-upload/2020/11/Freedom-from-Want_3_5.jpg",
+        "index": 115,
+        "week": 5
+    },
+    {
+        "title": [
+            "Bird in Space",
+            "Bird in Flight"
+        ],
+        "artist": [
+            "Constantin Brancus",
+            "Brancus"
+        ],
+        "range": [
+            1923,
+            1923
+        ],
+        "link": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/486757/1004909/restricted",
+        "index": 116,
+        "week": 5
+    },
+    {
+        "title": [
+            "Golden Bird"
+        ],
+        "artist": [
+            "Constantin Brancus",
+            "Brancus"
+        ],
+        "range": [
+            1919,
+            1921
+        ],
+        "link": "https://www.artic.edu/iiif/2/c8024369-fa0a-6438-0072-f9b9929a800b/full/843,/0/default.jpg",
+        "index": 117,
+        "week": 5
+    },
+    {
+        "title": [
+            "Puppy"
+        ],
+        "artist": [
+            "Jeff Koons",
+            "Koons"
+        ],
+        "range": [
+            1992,
+            1992
+        ],
+        "link": "https://cms.guggenheim-bilbao.eus/uploads/2012/05/004.Puppy_Julio-2012-1-scaled.jpg",
+        "index": 118,
+        "week": 5
+    },
+    {
+        "title": [
+            "The Treachery of Images"
+        ],
+        "artist": [
+            "René Magritte",
+            "Magritte"
+        ],
+        "range": [
+            1926,
+            1926
+        ],
+        "link": "https://s3-us-west-2.amazonaws.com/collections.lacma.org-images/remote_images/ma-150089-WEB.jpg?ehDq5wweusuqMP6WyRgU1gJ2M9VR2Mmh",
+        "index": 119,
+        "week": 5
+    },
+    {
+        "title": [
+            "Flag"
+        ],
+        "artist": [
+            "Jasper Johns",
+            "Johns"
+        ],
+        "range": [
+            1954,
+            1955
+        ],
+        "link": "https://www.artnews.com/wp-content/uploads/2021/09/pma-jasperjohns-image01-jasperjohns-flag-1954.jpg?w=800",
+        "index": 120,
+        "week": 5
+    },
+    {
+        "title": [
+            "Target with Four Faces"
+        ],
+        "artist": [
+            "Jasper Johns",
+            "Johns"
+        ],
+        "range": [
+            1955,
+            1955
+        ],
+        "link": "https://www.singulart.com/blog/wp-content/uploads/2020/04/target.jpg",
+        "index": 121,
+        "week": 5
+    },
+    {
+        "title": [
+            "Challenging Mud"
+        ],
+        "artist": [
+            "Kazuo Shiraga",
+            "Shiraga"
+        ],
+        "range": [
+            1955,
+            1955
+        ],
+        "link": "https://smarthistory.org/wp-content/uploads/2021/06/Challenging-Mud-1955-Created-at-the-1st-Gutai-Art-Exhibition-Ohara-Kaikan-Tokyo-Third-Execution.jpg",
+        "index": 122,
+        "week": 5
+    },
+    {
+        "title": [
+            "Work II",
+            "Work 2"
+        ],
+        "artist": [
+            "Kazuo Shiraga",
+            "Shiraga"
+        ],
+        "range": [
+            1958,
+            1958
+        ],
+        "link": "https://mediakron.bc.edu/files/globalart/styles/full/public/globalart_mhKUmZ.png",
+        "index": 123,
+        "week": 5
+    },
+    {
+        "title": [
+            "Electric Dress"
+        ],
+        "artist": [
+            "Atsuko Tanaka",
+            "Tanaka"
+        ],
+        "range": [
+            1956,
+            1956
+        ],
+        "link": "https://www.irenebrination.com/.a/6a00e55290e7c48833026be42fac4e200d-600wi",
+        "index": 124,
+        "week": 5
+    },
+    {
+        "title": [
+            "Industrial Painting"
+        ],
+        "artist": [
+            "Giuseppe Pinot-Gallizio",
+            "Pinot-Gallizio"
+        ],
+        "range": [
+            1958,
+            1958
+        ],
+        "link": "https://live.staticflickr.com/2864/10046610005_3dd5262e9e_b.jpg",
+        "index": 125,
+        "week": 5
+    },
+    {
+        "title": [
+            "Paris By Night"
+        ],
+        "artist": [
+            "Asger Jorn",
+            "Jorn"
+        ],
+        "range": [
+            1959,
+            1959
+        ],
+        "link": "https://contempartnotes.files.wordpress.com/2011/08/paris-by-night-defiguration-1959-asger-jorn.jpg",
+        "index": 126,
+        "week": 5
+    },
+    {
+        "title": [
+            "Canyon"
+        ],
+        "artist": [
+            "Robert Rauschenberg",
+            "Rauschenberg"
+        ],
+        "range": [
+            1959,
+            1959
+        ],
+        "link": "https://www.moma.org/media/W1siZiIsIjI1NTc5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=3000a61a8801bb3d",
+        "index": 127,
+        "week": 6
+    },
+    {
+        "title": [
+            "Just What Is It That Makes Today's Homes So Different, So Appealing?"
+        ],
+        "artist": [
+            "Richard Hamilton",
+            "Hamilton"
+        ],
+        "range": [
+            1956,
+            1956
+        ],
+        "link": "https://smarthistory.org/wp-content/uploads/2021/11/detail-P20271_10.jpg",
+        "index": 128,
+        "week": 6
+    },
+    {
+        "title": [
+            "Campbell's Soup Cans"
+        ],
+        "artist": [
+            "Andy Warhol",
+            "Warhol"
+        ],
+        "range": [
+            1962,
+            1962
+        ],
+        "link": "https://news.artnet.com/app/news-upload/2015/10/2015-10-09-warhol-e1444365181812.jpg",
+        "index": 129,
+        "week": 6
+    },
+    {
+        "title": [
+            "Gold Marilyn Monroe"
+        ],
+        "artist": [
+            "Andy Warhol",
+            "Warhol"
+        ],
+        "range": [
+            1962,
+            1962
+        ],
+        "link": "https://www.moma.org/d/assets/W1siZiIsIjIwMTkvMDkvMDUvOWQ5MmNjYjJ5NF8zMTZfMTk2Ml9DUl9QcmVzc19Vc2VfXzMwMDBfcGl4ZWxfbGVuZ3RoXy5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/316_1962_CR-Press_Use_%283000_pixel_length%29.jpg?sha=745ff28c35b4fb0d",
+        "index": 130,
+        "week": 6
+    },
+    {
+        "title": [
+            "Triple Elvis"
+        ],
+        "artist": [
+            "Andy Warhol",
+            "Warhol"
+        ],
+        "range": [
+            1963,
+            1963
+        ],
+        "link": "https://static01.nyt.com/images/2014/11/13/nyregion/AUCTION/AUCTION-superJumbo.jpg",
+        "index": 131,
+        "week": 6
+    },
+    {
+        "title": [
+            "Sleep"
+        ],
+        "artist": [
+            "Andy Warhol",
+            "Warhol"
+        ],
+        "range": [
+            1963,
+            1963
+        ],
+        "link": "https://64.media.tumblr.com/2dfabd30e734e9aa4e51253ea9df6ebe/tumblr_ovyov63lnu1tpgc87o1_1280.jpg",
+        "index": 132,
+        "week": 6
+    },
+    {
+        "title": [
+            "Homage to New York"
+        ],
+        "artist": [
+            "Jean Tinguely",
+            "Tinguely"
+        ],
+        "range": [
+            1960,
+            1960
+        ],
+        "link": "https://smarthistory.org/wp-content/uploads/2020/09/cri_000000355224.jpg",
+        "index": 133,
+        "week": 6
+    },
+    {
+        "title": [
+            "Yard"
+        ],
+        "artist": [
+            "Allan Kaprow",
+            "Kaprow"
+        ],
+        "range": [
+            1961,
+            1961
+        ],
+        "link": "https://www.artforum.com/uploads/upload.000/id24243/article_1064x.jpg",
+        "index": 134,
+        "week": 6
+    },
+    {
+        "title": [
+            "Fluids"
+        ],
+        "artist": [
+            "Allan Kaprow",
+            "Kaprow"
+        ],
+        "range": [
+            1967,
+            1967
+        ],
+        "link": "https://uploads8.wikiart.org/00199/images/allan-kaprow/fluids-1967.jpg",
+        "index": 135,
+        "week": 6
+    },
+    {
+        "title": [
+            "The Marriage of Reason and Squalor, II",
+            "The Marriage of Reason and Squalor",
+            "The Marriage of Reason and Squalor 2"
+        ],
+        "artist": [
+            "Frank Stella",
+            "Stella"
+        ],
+        "range": [
+            1959,
+            1959
+        ],
+        "link": "https://smarthistory.org/wp-content/uploads/2016/09/stella.jpg",
+        "index": 136,
+        "week": 6
+    },
+    {
+        "title": [
+            "Leaf"
+        ],
+        "artist": [
+            "Agnes Martin",
+            "Martin"
+        ],
+        "range": [
+            1965,
+            1965
+        ],
+        "link": "https://iiif.micr.io/uWeZG/full/%5E1200,/0/default.jpg",
+        "index": 137,
+        "week": 6
+    },
+    {
+        "title": [
+            "Untitled (box with trough)",
+            "Untitled",
+            "box with trough"
+        ],
+        "artist": [
+            "Donald Judd",
+            "Judd"
+        ],
+        "range": [
+            1963,
+            1963
+        ],
+        "link": "https://www.glenstone.org/wp-content/uploads/2018/09/JUDDd_GF_Untitled-731x548.jpg",
+        "index": 138,
+        "week": 6
+    },
+    {
+        "title": [
+            "100 Untitled Works in Mill Aluminum"
+        ],
+        "artist": [
+            "Donald Judd",
+            "Judd"
+        ],
+        "range": [
+            1982,
+            1986
+        ],
+        "link": "https://images.adsttc.com/media/images/5654/628d/e58e/ceb2/5f00/009e/newsletter/MG9285DJShedsInt_Tuck.jpg?1448370824",
+        "index": 139,
+        "week": 6
+    },
+    {
+        "title": [
+            "Installation of Works at the Green Gallery"
+        ],
+        "artist": [
+            "Robert Morris",
+            "Morris"
+        ],
+        "range": [
+            1964,
+            1965
+        ],
+        "link": "https://64.media.tumblr.com/tumblr_m67e99CaiI1rq6gxwo1_1280.jpg",
+        "index": 140,
+        "week": 6
+    },
+    {
+        "title": [
+            "Die"
+        ],
+        "artist": [
+            "Tony Smith",
+            "Smith"
+        ],
+        "range": [
+            1962,
+            1968
+        ],
+        "link": "https://blog.sevenponds.com/wp-content/uploads/2013/08/die-tony-smith.jpg",
+        "index": 141,
+        "week": 6
+    },
+    {
+        "title": [
+            "One Ton Prop",
+            "House of Cards"
+        ],
+        "artist": [
+            "Richard Serra",
+            "Serra"
+        ],
+        "range": [
+            1969,
+            1969
+        ],
+        "link": "https://www.moma.org/learn/moma_learning/_assets/www.moma.org/wp/moma_learning/wp-content/uploads/2012/07/Richard-Serra.-One-Ton-Prop-House-447x395.jpg",
+        "index": 142,
+        "week": 6
+    },
+    {
+        "title": [
+            "Hang Up"
+        ],
+        "artist": [
+            "Eva Hesse",
+            "Hesse"
+        ],
+        "range": [
+            1966,
+            1966
+        ],
+        "link": "https://www.artic.edu/iiif/2/3269a9a2-55b2-0cab-3cac-0540f395f91d/full/843,/0/default.jpg",
+        "index": 143,
+        "week": 6
+    },
+    {
+        "title": [
+            "Cut Piece"
+        ],
+        "artist": [
+            "Yoko Ono",
+            "Ono"
+        ],
+        "range": [
+            1964,
+            1964
+        ],
+        "link": "https://www.phaidon.com/resource/onocutpiece11.jpg",
+        "index": 144,
+        "week": 6
+    },
+    {
+        "title": [
+            "Pat and Paw Cinema"
+        ],
+        "artist": [
+            "Valie Export",
+            "Export"
+        ],
+        "range": [
+            1968,
+            1968
+        ],
+        "link": "https://www.moma.org/media/W1siZiIsIjI1MDQ0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=66f61231c564af53",
+        "index": 145,
+        "week": 6
+    },
+    {
+        "title": [
+            "From the Portfolio of Doggishness"
+        ],
+        "artist": [
+            "Valie Export",
+            "Export"
+        ],
+        "range": [
+            1968,
+            1968
+        ],
+        "link": "https://pbs.twimg.com/media/C8geNJHXgAAWBOV.jpg:large",
+        "index": 146,
+        "week": 6
+    },
+    {
+        "title": [
+            "Manifestation 3"
+        ],
+        "artist": [
+            "Daniel Buren, Olivier Mosset, Michel Parmentier and Niele Toroni",
+            "Buren, Mosset, Parmentier and Toroni"
+        ],
+        "range": [
+            1967,
+            1967
+        ],
+        "link": "https://64.media.tumblr.com/8d0ed548c7f2ecf707de5fce711e597f/tumblr_n33v3me7hw1r70t2xo1_1280.png",
+        "index": 147,
+        "week": 6
+    },
+    {
+        "title": [
+            "MOMA-Poll, 1970"
+        ],
+        "artist": [
+            "Hans Haacke",
+            "Haacke"
+        ],
+        "range": [
+            1970,
+            1970
+        ],
+        "link": "https://uploads5.wikiart.org/images/hans-haacke/moma-poll-1970.jpg",
+        "index": 149,
+        "week": 6
+    },
+    {
+        "title": [
+            "Peinture-Sculpture"
+        ],
+        "artist": [
+            "Daniel Buren",
+            "Buren"
+        ],
+        "range": [
+            1971,
+            1971
+        ],
+        "link": "https://catalogue.danielburen.com/uploads/companies/8/media/1748/r2_1971_newyork_1152_013.jpg",
+        "index": 150,
+        "week": 6
+    },
+    {
+        "title": [
+            "Museum of Modern Art, Department of Eagles, Figure Section"
+        ],
+        "artist": [
+            "Marcel Broodthaers",
+            "Broodthaers"
+        ],
+        "range": [
+            1972,
+            1972
+        ],
+        "link": "https://uploads4.wikiart.org/00324/images/marcel-broodthaers/musee-1.jpg!Large.jpg",
+        "index": 151,
+        "week": 6
+    },
+    {
+        "title": [
+            "The Bowery in Two Inadequate Descriptive Systems"
+        ],
+        "artist": [
+            "Martha Rosler",
+            "Rosler"
+        ],
+        "range": [
+            1974,
+            1975
+        ],
+        "link": "https://smarthistory.org/wp-content/uploads/2022/01/95.117.A-X_01_a02-Large-TIFF_4000-pixels-long-scaled.jpg",
+        "index": 152,
+        "week": 6
+    },
+    {
+        "title": [
+            "Mining the Museum"
+        ],
+        "artist": [
+            "Fred Wilson",
+            "Wilson"
+        ],
+        "range": [
+            1992,
+            1992
+        ],
+        "link": "https://bmoreart.com/wp-content/uploads/2017/05/Wilson_3.jpg",
+        "index": 153,
+        "week": 6
+    },
+    {
+        "title": [
+            "Spiral Jetty"
+        ],
+        "artist": [
+            "Robert Smithson",
+            "Smithson"
+        ],
+        "range": [
+            1970,
+            1970
+        ],
+        "link": "https://holtsmithsonfoundation.org/sites/default/files/styles/fullscreen_2048_x_y_/public/2020-02/Smithson-Spiral_Jetty-Gorgoni-02-2048w.jpg?itok=EUzx8Fb8",
+        "index": 154,
+        "week": 6
+    },
+    {
+        "title": [
+            "Migrant Mother"
+        ],
+        "artist": [
+            "Dorothea Lange",
+            "Lange"
+        ],
+        "range": [
+            1936,
+            1936
+        ],
+        "link": "https://static01.nyt.com/images/2018/11/29/lens/28Lange1/28Lange1-superJumbo.jpg",
+        "index": 155,
+        "week": 6
+    },
+    {
+        "title": [
+            "Sand Dunes, Oceano, California",
+            "Sand Dunes"
+        ],
+        "artist": [
+            "Edward Weston",
+            "Weston"
+        ],
+        "range": [
+            1936,
+            1936
+        ],
+        "link": "https://3.api.artsmia.org/800/19834.jpg",
+        "index": 156,
+        "week": 6
+    },
+    {
+        "title": [
+            "Butte, Montana"
+        ],
+        "artist": [
+            "Robert Frank",
+            "Frank"
+        ],
+        "range": [
+            1955,
+            1957
+        ],
+        "link": "https://4.api.artsmia.org/800/25428.jpg",
+        "index": 157,
+        "week": 6
+    },
+    {
+        "title": [
+            "48 Portraits"
+        ],
+        "artist": [
+            "Gerhard Richter",
+            "Richter"
+        ],
+        "range": [
+            1971,
+            1972
+        ],
+        "link": "https://img.macba.cat/public/styles/obra_ficha/public/imagenes/obras/1513_001_l.jpg?itok=t87rgc8g",
+        "index": 158,
+        "week": 6
+    },
+    {
+        "title": [
+            "Tenant Farmer's Wife, Alabama",
+            "Tenant Farmer's Wife"
+        ],
+        "artist": [
+            "Walker Evans",
+            "Evans"
+        ],
+        "range": [
+            1936,
+            1936
+        ],
+        "link": "https://www.metmuseum.org/toah/images/h4/h4_2001.415.jpg",
+        "index": 159,
+        "week": 6
+    },
+    {
+        "title": [
+            "After Walker Evans: 4"
+        ],
+        "artist": [
+            "Sherrie Levine",
+            "Levine"
+        ],
+        "range": [
+            1981,
+            1981
+        ],
+        "link": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/267214/610087/restricted",
+        "index": 160,
+        "week": 6
+    },
+    {
+        "title": [
+            "Untitled Film Still #13"
+        ],
+        "artist": [
+            "Cindy Sherman",
+            "Sherman"
+        ],
+        "range": [
+            1978,
+            1978
+        ],
+        "link": "https://www.moma.org/media/W1siZiIsIjQ1MDEwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=78b427829d038a1c",
+        "index": 161,
+        "week": 6
+    },
+    {
+        "title": [
+            "The Migration Series"
+        ],
+        "artist": [
+            "Jacob Lawrence",
+            "Lawrence"
+        ],
+        "range": [
+            1941,
+            1941
+        ],
+        "link": "https://live.staticflickr.com/7695/17085416477_2dd93ab2eb_c.jpg",
+        "index": 162,
+        "week": 6
+    },
+    {
+        "title": [
+            "Tilted Arc"
+        ],
+        "artist": [
+            "Richard Serra",
+            "Serra"
+        ],
+        "range": [
+            1981,
+            1981
+        ],
+        "link": "https://d16kd6gzalkogb.cloudfront.net/magazine_images/Richard-Serra-Tilted-Arc.jpg",
+        "index": 163,
+        "week": 6
+    },
+    {
+        "title": [
+            "Vietnam Veterans Memorial"
+        ],
+        "artist": [
+            "Maya Lin",
+            "Lin"
+        ],
+        "range": [
+            1982,
+            1982
+        ],
+        "link": "https://sah-archipedia.org/sites/default/files/pictures/full/DC-01-ML13-001.jpg",
+        "index": 164,
+        "week": 6
+    },
+    {
+        "title": [
+            "The Weather Project"
+        ],
+        "artist": [
+            "Olafur Eliasson",
+            "Eliasson"
+        ],
+        "range": [
+            2003,
+            2003
+        ],
+        "link": "https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/the-weather-project_19066.jpg",
+        "index": 165,
+        "week": 6
+    },
+    {
+        "title": [
+            "National Memorial for Peace and Justice"
+        ],
+        "artist": [
+            "MASS Design Group"
+        ],
+        "range": [
+            2018,
+            2018
+        ],
+        "link": "https://museumandmemorial.eji.org/sites/default/files/2018-04/memorial-home-new_0.jpg",
+        "index": 166,
+        "week": 6
     }
 ]
