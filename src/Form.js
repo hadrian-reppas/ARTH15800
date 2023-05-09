@@ -32,8 +32,10 @@ class Form extends Component {
     const input_style = this.props.check ? disabled_input : active_input;
     const input_style_small = this.props.check ? disabled_input_small : active_input_small;
     const title_msg = this.props.check ? this.props.title[0] : 'Actual title';
+    const title_click = this.props.check ? () => { navigator.clipboard.writeText(this.props.title[0]) } : () => { };
     const title_style = this.props.check ? this.state.correct_title ? green : red : gray;
     const artist_msg = this.props.check ? this.props.artist[0] : 'Actual artist';
+    const artist_click = this.props.check ? () => { navigator.clipboard.writeText(this.props.artist[0]) } : () => { };
     const artist_style = this.props.check ? this.state.correct_artist ? green : red : gray;
     const year_style = this.props.check ? this.state.correct_year ? green : red : gray;
     var year_msg = 'Actual year';
@@ -56,7 +58,7 @@ class Form extends Component {
           placeholder="Guess title"
           onChange={this.handleChange}
         />
-        <div className={title_style}>
+        <div className={title_style} onClick={title_click}>
           <div className="my-auto whitespace-nowrap truncate">
             {title_msg}
           </div>
@@ -70,7 +72,7 @@ class Form extends Component {
           placeholder="Guess artist"
           onChange={this.handleChange}
         />
-        <div className={artist_style}>
+        <div className={artist_style} onClick={artist_click}>
           <div className="my-auto whitespace-nowrap truncate">
             {artist_msg}
           </div>

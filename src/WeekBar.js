@@ -45,6 +45,13 @@ const WeekBar = (props) => {
         onClick={() => { props.handleWeek(5); }}
         tabindex="-1"
       />
+      <input
+        className={props.weeks[6] ? active_style : disabled_style}
+        type="button"
+        value="Week 7"
+        onClick={() => { props.handleWeek(6); }}
+        tabindex="-1"
+      />
     </div >
   );
 };
