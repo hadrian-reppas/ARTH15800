@@ -1519,7 +1519,8 @@
     },
     {
         "title": [
-            "L.H.O.O.Q."
+            "L.H.O.O.Q.",
+            "LHOOQ"
         ],
         "artist": [
             "Marcel Duchamp",
@@ -3152,5 +3153,559 @@
         "link": "https://live.staticflickr.com/3089/2869482426_ef5632740e_b.jpg",
         "index": 195,
         "week": 7
+    },
+    {
+        "title": [
+            "Cloud Gate"
+        ],
+        "artist": [
+            "Anish Kapoor",
+            "Kapoor"
+        ],
+        "range": [
+            2006,
+            2006
+        ],
+        "link": "https://www.chicago.gov/content/dam/city/depts/dca/Public%20Art/cloudgate800.jpg",
+        "index": 196,
+        "week": 8
+    },
+    {
+        "title": [
+            "Afrum I (White)",
+            "Afrum 1 (White)",
+            "Afrum I",
+            "Afrum 1",
+            "Afrum",
+            "White"
+        ],
+        "artist": [
+            "James Turrell",
+            "Turrell"
+        ],
+        "range": [
+            1966,
+            1966
+        ],
+        "link": "https://www.guggenheim.org/wp-content/uploads/1967/01/92.4175_ph_web-1.jpg",
+        "index": 197,
+        "week": 8
+    },
+    {
+        "title": [
+            "Roden Crater"
+        ],
+        "artist": [
+            "James Turrell",
+            "Turrell"
+        ],
+        "range": [
+            1977,
+            1977
+        ],
+        "link": "https://images.squarespace-cdn.com/content/v1/52efd2dbe4b0e172529acb66/1547490850702-EOOWCKF0ITNF5T5EYX42/turrell_roden_crater_the_new_amity_workshop.jpg",
+        "index": 198,
+        "week": 8
+    },
+    {
+        "title": [
+            "Shoot"
+        ],
+        "artist": [
+            "Chris Burden",
+            "Burden"
+        ],
+        "range": [
+            1971,
+            1971
+        ],
+        "link": "https://d16kd6gzalkogb.cloudfront.net/magazine_images/Chris-Burden-1971-Shoot.jpg",
+        "index": 199,
+        "week": 8
+    },
+    {
+        "title": [
+            "Lightning Field"
+        ],
+        "artist": [
+            "Walter De Maria",
+            "De Maria"
+        ],
+        "range": [
+            1977,
+            1977
+        ],
+        "link": "https://cdn.theatlantic.com/thumbor/f7zvSGZchKCjHr-9jvWNzNiv_tY=/529x0:3229x2700/1080x1080/media/img/mt/2022/11/inline_walter_de_maria_lightning_field_1/original.jpg",
+        "index": 200,
+        "week": 8
+    },
+    {
+        "title": [
+            "Truisms"
+        ],
+        "artist": [
+            "Jenny Holzer",
+            "Holzer"
+        ],
+        "range": [
+            1977,
+            1979
+        ],
+        "link": "https://flash---art.com/wp-content/uploads/2020/04/Hauser-and-Wirth_Jenny-Holzer_Flash-Feed.jpg",
+        "index": 201,
+        "week": 8
+    },
+    {
+        "title": [
+            "Silence = Death"
+        ],
+        "artist": [
+            "Gran Fury"
+        ],
+        "range": [
+            1986,
+            1986
+        ],
+        "link": "https://nomoi.hypotheses.org/files/2015/11/SilenceDeath_01.jpg",
+        "index": 202,
+        "week": 8
+    },
+    {
+        "title": [
+            "Untitled"
+        ],
+        "artist": [
+            "Giovanni Anselmo",
+            "Anselmo"
+        ],
+        "range": [
+            1968,
+            1968
+        ],
+        "link": "https://64.media.tumblr.com/d8a5dc4a6729dce007f9b6591f5c0c95/tumblr_oocbphi3di1s10waio1_1280.jpg",
+        "index": 203,
+        "week": 8
+    },
+    {
+        "title": [
+            "One Million Years (For All Those Who Have Lived and Died)",
+            "One Million Years",
+            "For All Those Who Have Lived and Died"
+        ],
+        "artist": [
+            "On Kawara",
+            "Kawara"
+        ],
+        "range": [
+            1969,
+            1969
+        ],
+        "link": "https://assets.davidzwirner.com/v7/_assets_/davidzwirner/exhibitions/installationviewsimages/2009/okdz19show2009/ok2009-on-kawara-install-booth-from-right-6.jpg?w=1300&q=85&org_if_sml=1&force_format=webp",
+        "index": 204,
+        "week": 8
+    },
+    {
+        "title": [
+            "Bliz-aard Ball Sale"
+        ],
+        "artist": [
+            "David Hammons",
+            "Hammons"
+        ],
+        "range": [
+            1983,
+            1983
+        ],
+        "link": "https://aphelis.net/wp-content/uploads/2015/12/BEY_1983_Hammons_Bliz-aard-Ball-Sale.jpg",
+        "index": 205,
+        "week": 8
+    },
+    {
+        "title": [
+            "Home Run"
+        ],
+        "artist": [
+            "Gabriel Orozco",
+            "Orozco"
+        ],
+        "range": [
+            1992,
+            1992
+        ],
+        "link": "https://i.pinimg.com/originals/02/1b/30/021b30d7cb3f29767cb6f889e326349d.jpg",
+        "index": 206,
+        "week": 8
+    },
+    {
+        "title": [
+            "Untitled (Free)",
+            "Untitled",
+            "Free"
+        ],
+        "artist": [
+            "Rikrit Tiravanija",
+            "Tiravanija"
+        ],
+        "range": [
+            1992,
+            1992
+        ],
+        "link": "https://img.artlogic.net/w_1010,h_580,c_limit/exhibit-e/5576fee507a72c0678771e53/1d574db592be439f5cb677de0af54df8.jpeg",
+        "index": 207,
+        "week": 8
+    },
+    {
+        "title": [
+            "House"
+        ],
+        "artist": [
+            "Rachel Whiteread",
+            "Whiteread"
+        ],
+        "range": [
+            1993,
+            1993
+        ],
+        "link": "https://www.apollo-magazine.com/wp-content/uploads/2013/10/WHITEREAD-1993-House-View-1_photo-by-Sue-Omerod.jpg",
+        "index": 208,
+        "week": 8
+    },
+    {
+        "title": [
+            "Maria Eichhorn Public Limited Company"
+        ],
+        "artist": [
+            "Maria Eichhorn",
+            "Eichhorn"
+        ],
+        "range": [
+            2002,
+            2002
+        ],
+        "link": "https://backend.artreview.com/wp-content/uploads/2022/04/feat04-dpv-Maria-Eichhorn-1230x1115.jpg",
+        "index": 209,
+        "week": 8
+    },
+    {
+        "title": [
+            "Take Care of Yourself"
+        ],
+        "artist": [
+            "Sophie Calle",
+            "Calle"
+        ],
+        "range": [
+            2007,
+            2007
+        ],
+        "link": "https://img.artlogic.net/w_1800,h_1000,c_limit/exhibit-e/5f5a43b313a837455d8b4567/f86b686908da7c9a30d0f2dc3518e8d9.jpeg",
+        "index": 210,
+        "week": 8
+    },
+    {
+        "title": [
+            "Faust"
+        ],
+        "artist": [
+            "Anne Imhof",
+            "Imhof"
+        ],
+        "range": [
+            2017,
+            2017
+        ],
+        "link": "https://news.artnet.com/app/news-upload/2017/05/26-Anne-Imhof-%C2%A9-Nadine-Fraczkowski_E9B1482.jpg",
+        "index": 211,
+        "week": 8
+    },
+    {
+        "title": [
+            "Untitled (I Feel Most Colored When I am Thrown Against a Sharp White Background)",
+            "Untitled",
+            "I Feel Most Colored When I am Thrown Against a Sharp White Background"
+        ],
+        "artist": [
+            "Glenn Ligon",
+            "Ligon"
+        ],
+        "range": [
+            1990,
+            1990
+        ],
+        "link": "https://whitneymedia.org/assets/image/291708/large_stop-303.jpg",
+        "index": 212,
+        "week": 8
+    },
+    {
+        "title": [
+            "Untitled (I am a Man)",
+            "Untitled",
+            "I am a Man"
+        ],
+        "artist": [
+            "Glenn Ligon",
+            "Ligon"
+        ],
+        "range": [
+            1988,
+            1988
+        ],
+        "link": "https://media.nga.gov/iiif/3ef44469-9226-45e7-8e2c-1cc45736d63a/full/!588,600/0/default.jpg",
+        "index": 213,
+        "week": 8
+    },
+    {
+        "title": [
+            "In the Near Future"
+        ],
+        "artist": [
+            "Sharon Hayes",
+            "Hayes"
+        ],
+        "range": [
+            2009,
+            2009
+        ],
+        "link": "https://www.phaidon.com/resource/hayesiamaman.jpg",
+        "index": 214,
+        "week": 8
+    },
+    {
+        "title": [
+            "Wall to Wall"
+        ],
+        "artist": [
+            "Barbara Kruger",
+            "Kruger"
+        ],
+        "range": [
+            1994,
+            1994
+        ],
+        "link": "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/03/barbara_kruger_wall_to_wall_1994-Copy.jpg",
+        "index": 215,
+        "week": 8
+    },
+    {
+        "title": [
+            "Your Gaze Hits the Side of My Face"
+        ],
+        "artist": [
+            "Barbara Kruger",
+            "Kruger"
+        ],
+        "range": [
+            1981,
+            1981
+        ],
+        "link": "https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FlJ_1fjvxvkBwXNdzSdkJQg%2Fnormalized.jpg&width=597",
+        "index": 216,
+        "week": 8
+    },
+    {
+        "title": [
+            "The Cremaster Cycle"
+        ],
+        "artist": [
+            "Matthew Barney",
+            "Barney"
+        ],
+        "range": [
+            1994,
+            2002
+        ],
+        "link": "https://images.squarespace-cdn.com/content/5702ab9d746fb9634796c9f9/1459800507284-MPUWAVXW62KVJT4I0O8Y/Screen-Shot-2015-09-20-at-8.55.25-AM-1000x746.png?content-type=image%2Fpng",
+        "index": 216,
+        "week": 8
+    },
+    {
+        "title": [
+            "Fairytale"
+        ],
+        "artist": [
+            "Ai Weiwei"
+        ],
+        "range": [
+            2007,
+            2007
+        ],
+        "link": "https://miro.medium.com/v2/resize:fit:800/1*Wnqgf7o71vXbgGWUGV3TuQ.jpeg",
+        "index": 217,
+        "week": 8
+    },
+    {
+        "title": [
+            "Sunflower Seeds"
+        ],
+        "artist": [
+            "Ai Weiwei"
+        ],
+        "range": [
+            2010,
+            2010
+        ],
+        "link": "https://media.npr.org/assets/news/2010/10/15/sunflowers_custom-c324049dda420b544be66364529bde29ad5459d1.jpg",
+        "index": 218,
+        "week": 8
+    },
+    {
+        "title": [
+            "Maman"
+        ],
+        "artist": [
+            "Louise Bourgeois",
+            "Bourgeois"
+        ],
+        "range": [
+            1999,
+            1999
+        ],
+        "link": "https://www.artandobject.com/sites/default/files/styles/media_crop/public/louise-bourgeois-maman-photo-jean-pierre-dalbera-2.jpg?itok=uVHR5rco",
+        "index": 219,
+        "week": 8
+    },
+    {
+        "title": [
+            "Little Frank and His Carp"
+        ],
+        "artist": [
+            "Andrea Fraser",
+            "Fraser"
+        ],
+        "range": [
+            2001,
+            2001
+        ],
+        "link": "https://img.macba.cat/public/styles/obra_ficha/public/imagenes/obras/1860_003_l.jpg?itok=wkaTdWNS",
+        "index": 220,
+        "week": 8
+    },
+    {
+        "title": [
+            "Copy Shop"
+        ],
+        "artist": [
+            "Thomas Demand",
+            "Demand"
+        ],
+        "range": [
+            1999,
+            1999
+        ],
+        "link": "https://artlogic-res.cloudinary.com/w_1680,h_1680,c_limit,f_auto,fl_lossy,q_auto:best/artlogicstorage/estherschipper/images/view/bdb0bc6e0ae1f540284cbfb7e424a96174a77add.jpg",
+        "index": 221,
+        "week": 8
+    },
+    {
+        "title": [
+            "Control Room"
+        ],
+        "artist": [
+            "Thomas Demand",
+            "Demand"
+        ],
+        "range": [
+            2011,
+            2011
+        ],
+        "link": "https://prod-upp-image-read.ft.com/efb8f3a6-f32c-11e1-9ca6-00144feabdc0",
+        "index": 222,
+        "week": 8
+    },
+    {
+        "title": [
+            "Mont Analogue"
+        ],
+        "artist": [
+            "Philippe Parreno",
+            "Parreno"
+        ],
+        "range": [
+            2001,
+            2001
+        ],
+        "link": "http://www.airdeparis.com/artists/philippe-parreno/parreno/mont/3.jpg",
+        "index": 223,
+        "week": 8
+    },
+    {
+        "title": [
+            "No Ghost Just a Shell"
+        ],
+        "artist": [
+            "Pierre Huyghe and Philippe Parreno",
+            "Huyghe and Parreno"
+        ],
+        "range": [
+            1999,
+            1999
+        ],
+        "link": "https://artlogic-res.cloudinary.com/w_3000,h_2000,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/exhibitions/images/563/ph018_2.jpg",
+        "index": 224,
+        "week": 8
+    },
+    {
+        "title": [
+            "Gramsci Monument"
+        ],
+        "artist": [
+            "Thomas Hirschhorn",
+            "Hirschhorn"
+        ],
+        "range": [
+            2014,
+            2014
+        ],
+        "link": "https://static.wixstatic.com/media/0aa122_ee62c1fbc6a34e138d137d575ab3adea~mv2.png/v1/fill/w_560,h_422,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Screenshot%202020-11-25%20at%2008_24_29.png",
+        "index": 225,
+        "week": 8
+    },
+    {
+        "title": [
+            "The Souls of Millions of Light Years Away"
+        ],
+        "artist": [
+            "Yayoi Kusama",
+            "Kusama"
+        ],
+        "range": [
+            2013,
+            2013
+        ],
+        "link": "https://www.thebroad.org/sites/default/files/art/kusama_the_souls_of_millions_1.jpg",
+        "index": 226,
+        "week": 8
+    },
+    {
+        "title": [
+            "Dorchester Projects"
+        ],
+        "artist": [
+            "Theaster Gates",
+            "Gates"
+        ],
+        "range": [
+            2009,
+            2009
+        ],
+        "link": "https://news.artnet.com/app/news-upload/2021/09/Archive-and-Listening-House-by-Dorchester-Projects-e1630598176594.jpeg",
+        "index": 227,
+        "week": 8
+    },
+    {
+        "title": [
+            "The Crossing"
+        ],
+        "artist": [
+            "Bill Viola",
+            "Viola"
+        ],
+        "range": [
+            1996,
+            1996
+        ],
+        "link": "https://publicdelivery.org/wp-content/uploads/2019/07/Bill-Viola-The-Crossing-1996-two-channel-color-video-installation-four-channels-of-sound-10-min-57-sec-performer-Phil-Esposito-1.jpg",
+        "index": 228,
+        "week": 8
     }
 ]

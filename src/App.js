@@ -9,7 +9,7 @@ class App extends Component {
   state = {
     index: Math.floor(Math.random() * art.length),
     check: false,
-    weeks: new Array(7).fill(true)
+    weeks: new Array(8).fill(true)
   };
 
   render() {

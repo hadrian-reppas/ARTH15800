@@ -138,7 +138,7 @@ class Form extends Component {
 }
 
 function normalize(s) {
-  const split = s.split(/[ ,\-'#:.]/);
+  const split = s.split(/[ ,\-'#:.()/?]/);
   const normalized = split.filter(s => s !== '').map(s => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase());
   return normalized;
 }

@@ -2,7 +2,7 @@ const WeekBar = (props) => {
   const active_style = 'block rounded-md bg-sky-500 text-white hover:bg-sky-700';
   const disabled_style = 'block py-1.9 rounded-md bg-gray-300 text-black hover:bg-gray-400';
   return (
-    <div className="grid w-full grid-cols-9 gap-x-4 mx-36 my-4 pt-3">
+    <div className="grid w-full grid-cols-8 gap-x-4 mx-36 my-4 pt-3">
       <input
         className={props.weeks[0] ? active_style : disabled_style}
         type="button"
@@ -50,6 +50,13 @@ const WeekBar = (props) => {
         type="button"
         value="Week 7"
         onClick={() => { props.handleWeek(6); }}
+        tabindex="-1"
+      />
+      <input
+        className={props.weeks[7] ? active_style : disabled_style}
+        type="button"
+        value="Week 8"
+        onClick={() => { props.handleWeek(7); }}
         tabindex="-1"
       />
     </div >
