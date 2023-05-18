@@ -8,7 +8,8 @@ class Form extends Component {
     correct_title: false,
     correst_artist: false,
     correct_year: false,
-    all_correct: false
+    all_correct: false,
+    perfect_year: false
   };
 
   state = this.initialState;
@@ -22,7 +23,8 @@ class Form extends Component {
     const { title, artist, year } = this.state;
     const gray = 'flex col-span-2 w-full rounded-md pl-3 pr-3 border border-gray-300 text-gray-400';
     const green = 'flex col-span-2 w-full rounded-md pl-3 pr-3 border border-green-500 bg-green-300';
-    const red = 'flex col-span-2 w-full rounded-md pl-3 pr-3 border border-rose-500 bg-rose-300 align-middle';
+    const yellow = 'flex col-span-2 w-full rounded-md pl-3 pr-3 border border-yellow-500 bg-yellow-300';
+    const red = 'flex col-span-2 w-full rounded-md pl-3 pr-3 border border-rose-500 bg-rose-300';
     const active_input = 'col-span-2 block w-full rounded-md border-0 py-1.5 pl-3 pr-3 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600';
     const disabled_input = 'col-span-2 block w-full rounded-md border-0 py-1.5 pl-3 pr-3 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 pointer-events-none';
     const active_input_small = 'block w-full rounded-md border-0 py-1.5 pl-3 pr-3 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600';
@@ -37,7 +39,7 @@ class Form extends Component {
     const artist_msg = this.props.check ? this.props.artist[0] : 'Actual artist';
     const artist_click = this.props.check ? () => { navigator.clipboard.writeText(this.props.artist[0]) } : () => { };
     const artist_style = this.props.check ? this.state.correct_artist ? green : red : gray;
-    const year_style = this.props.check ? this.state.correct_year ? green : red : gray;
+    const year_style = this.props.check ? this.state.correct_year ? this.state.perfect_year ? green : yellow : red : gray;
     var year_msg = 'Actual year';
     if (this.props.check) {
       if (this.props.range[0] === this.props.range[1]) {
@@ -48,7 +50,7 @@ class Form extends Component {
     }
 
     return (
-      <form className="grid grid-cols-4 gap-x-8 gap-4 mx-36" autocomplete="off">
+      <form className="grid grid-cols-4 gap-x-8 gap-4 mx-36" autoComplete="off">
         <input
           type="text"
           name="title"
@@ -107,7 +109,8 @@ class Form extends Component {
     } else {
       const { title, artist, year } = this.state;
       const lo = this.props.range[0], hi = this.props.range[1];
-      const correct_year = lo <= parseInt(year) && parseInt(year) <= hi;
+      const correct_year = lo - 5 <= parseInt(year) && parseInt(year) <= hi + 5;
+      const perfect_year = lo <= parseInt(year) && parseInt(year) <= hi;
 
       var correct_title = false;
       const ntitle = JSON.stringify(normalize(title));
@@ -130,7 +133,8 @@ class Form extends Component {
         correct_title: correct_title,
         correct_artist: correct_artist,
         correct_year: correct_year,
-        correct: correct_title && correct_artist && correct_year
+        correct: correct_title && correct_artist && correct_year,
+        perfect_year: perfect_year
       });
     }
     this.props.handleSubmit(this.state.correct);

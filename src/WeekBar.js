@@ -8,56 +8,56 @@ const WeekBar = (props) => {
         type="button"
         value="Week 1"
         onClick={() => { props.handleWeek(0); }}
-        tabindex="-1"
+        tabIndex="-1"
       />
       <input
         className={props.weeks[1] ? active_style : disabled_style}
         type="button"
         value="Week 2"
         onClick={() => { props.handleWeek(1); }}
-        tabindex="-1"
+        tabIndex="-1"
       />
       <input
         className={props.weeks[2] ? active_style : disabled_style}
         type="button"
         value="Week 3"
         onClick={() => { props.handleWeek(2); }}
-        tabindex="-1"
+        tabIndex="-1"
       />
       <input
         className={props.weeks[3] ? active_style : disabled_style}
         type="button"
         value="Week 4"
         onClick={() => { props.handleWeek(3); }}
-        tabindex="-1"
+        tabIndex="-1"
       />
       <input
         className={props.weeks[4] ? active_style : disabled_style}
         type="button"
         value="Week 5"
         onClick={() => { props.handleWeek(4); }}
-        tabindex="-1"
+        tabIndex="-1"
       />
       <input
         className={props.weeks[5] ? active_style : disabled_style}
         type="button"
         value="Week 6"
         onClick={() => { props.handleWeek(5); }}
-        tabindex="-1"
+        tabIndex="-1"
       />
       <input
         className={props.weeks[6] ? active_style : disabled_style}
         type="button"
         value="Week 7"
         onClick={() => { props.handleWeek(6); }}
-        tabindex="-1"
+        tabIndex="-1"
       />
       <input
         className={props.weeks[7] ? active_style : disabled_style}
         type="button"
         value="Week 8"
         onClick={() => { props.handleWeek(7); }}
-        tabindex="-1"
+        tabIndex="-1"
       />
     </div >
   );
