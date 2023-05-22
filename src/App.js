@@ -7,22 +7,21 @@ import images from './img/images.js';
 
 class App extends Component {
   state = {
-    index: 0,
-    order: shuffle(Array.from(Array(art.length).keys())),
+    index: Math.floor(Math.random() * art.length),
     extra: [],
     check: false,
     weeks: new Array(8).fill(true)
   };
 
   render() {
-    const id = this.state.order[this.state.index];
-    const { title, artist, range } = art[id];
+    const { index } = this.state;
+    const { title, artist, range } = art[index];
 
     return (
       <div className="flex h-screen">
         <div className="max-w-6xl m-auto">
           <div className="flex">
-            <img className="h-96 mb-8 mx-auto" alt="" src={images[id]} />
+            <img className="h-96 mb-8 mx-auto" alt="" src={images[index]} />
           </div>
           <div className="flex bp-1">
             <Form handleSubmit={this.handleSubmit} title={title} artist={artist} range={range} check={this.state.check} />
@@ -36,42 +35,34 @@ class App extends Component {
   }
 
   handleSubmit = (correct) => {
-    console.log(this.state.extra);
     if (this.state.check) {
       if (correct) {
-        const { extra, order, index } = this.state;
-        if (extra.length > 0 && extra[0] !== order[index] && Math.random() < 0.25) {
-          const new_id = extra[0];
+        const { extra, index, weeks } = this.state;
+        if (extra.length > 0 && extra[0] !== index && Math.random() < 0.33) {
+          const new_index = extra[0];
           const new_extra = shuffle(extra.slice(1));
-          const new_order = shuffle(order);
           this.setState({
-            index: new_order.indexOf(new_id),
+            index: new_index,
             extra: new_extra,
-            order: new_order,
             check: false
           });
+          console.log(this.state.extra.map(id => art[id].title[0]));
           return;
         }
 
-        var new_index = index + 1;
-        while (true) {
-          new_index = new_index + 1;
-          if (new_index === art.length) {
-            this.setState({
-              order: shuffle(this.state.order)
-            });
-            new_index = 0;
-          } else if (this.state.weeks[art[order[new_index]].week - 1]) {
-            this.setState({
-              index: new_index,
-              check: false
-            });
-            return;
-          }
+        var new_index = Math.floor(Math.random() * art.length);
+        while (!weeks[art[new_index].week - 1] || new_index === index) {
+          new_index = Math.floor(Math.random() * art.length);
         }
+        this.setState({
+          index: new_index,
+          check: false
+        });
+        console.log(this.state.extra.map(id => art[id].title[0]));
       } else {
-        const new_extra = [...this.state.extra, this.state.order[this.state.index]];
+        const new_extra = [...this.state.extra, this.state.index];
         this.setState({ check: false, extra: new_extra });
+        console.log(this.state.extra.map(id => art[id].title[0]));
       }
     } else {
       this.setState({ check: true });
